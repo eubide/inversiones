@@ -1,0 +1,6 @@
+streamlit
+prophet
+yfinance
+plotly
+pep8
+pylint
